@@ -6,7 +6,6 @@ Este projeto foi desenvolvido durante o curso Full Stack da Rocketseat. O objeti
 
 - **HTML5**: Utilizado para estruturar o conteúdo do portal.
 - **CSS3**: Utilizado para estilizar o portal e torná-lo responsivo.
-- **JavaScript**: Utilizado para adicionar interatividade ao portal.
 - **Google Fonts**: Utilizado para importar fontes personalizadas.
 - **Git**: Utilizado para controle de versão do projeto.
 
