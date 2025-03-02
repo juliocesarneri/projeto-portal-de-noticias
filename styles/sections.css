@@ -2,6 +2,19 @@
   img{
     height: 100%;
     object-fit: cover;
+  }
+
+  .card{
     border-radius: 4px;
+    overflow: hidden; /* Esconde o que passar do limite do card */
+    position: relative;
+
+    &:before{ /* Mesma coisa que card::before */
+      content: "";
+      position: absolute;
+      background: linear-gradient(180deg, transparent, #020617);
+      inset: 0;
+      top: 50%;
+    }
   }
 }
